@@ -11,7 +11,7 @@
 <p align="center">
     GNU/Linux 更换系统软件源脚本及 Docker 安装脚本 用法
 
-    wget https://git666.463791874.xyz/proxy/https://raw.githubusercontent.com/lansepeach/LinuxMirrors/refs/heads/main/ChangeMirrors.sh & bash ./ChangeMirrors.sh
+    wget https://git666.463791874.xyz/proxy/https://raw.githubusercontent.com/lansepeach/LinuxMirrors/refs/heads/main/ChangeMirrors.sh & sudo bash ./ChangeMirrors.sh
 </p>
 <p align="center">
     <strong>
